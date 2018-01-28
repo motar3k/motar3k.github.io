@@ -1,0 +1,55 @@
+[{
+	"name": "0JHQsNGA0YvQs9Cw",
+	"blocked": 0,
+	"xp": 1000,
+	"energy": 1,
+	"exp": 300,
+	"coins": 600,
+	"wears": [25, 26, 27, 28],
+	"loc": 0
+}, {
+	"name": "0JzQsNC20LjQug==",
+	"blocked": 0,
+	"xp": 30000,
+	"energy": 1,
+	"exp": 900,
+	"coins": 2700,
+	"wears": [],
+	"loc": 1
+}, {
+	"name": "0KTQvtC80LA=",
+	"blocked": 0,
+	"xp": 300000,
+	"energy": 1,
+	"exp": 2000,
+	"coins": 6000,
+	"wears": [52, 53, 54, 55],
+	"loc": 1
+}, {
+	"name": "0J7Rh9C60LDRgNC40Lo=",
+	"blocked": 0,
+	"xp": 1000000,
+	"energy": 1,
+	"exp": 25000,
+	"coins": 50000,
+	"wears": [],
+	"loc": 2
+}, {
+	"name": "0JbQvNGL0YU=",
+	"blocked": 1,
+	"xp": 10000000,
+	"energy": 5,
+	"exp": 150000,
+	"coins": 250000,
+	"wears": [],
+	"loc": 2
+}, {
+	"name": "0KHQsNC90YLQsA==",
+	"blocked": 0,
+	"xp": 3000000,
+	"energy": 1,
+	"exp": 50000,
+	"coins": 150000,
+	"wears": [33,34,35,36],
+	"loc": 0
+}]
